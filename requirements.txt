@@ -1,0 +1,19 @@
+# VaR / CVaR 风险度量模型 —— 依赖清单
+# Python >= 3.9
+
+# 数据处理
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 数据获取（A股）
+akshare>=1.14.0
+
+# 可视化
+matplotlib>=3.7.0
+
+# 统计分析
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# 时间序列建模（GARCH）
+arch>=6.0.0
