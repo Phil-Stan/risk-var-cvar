@@ -37,7 +37,6 @@ risk-var-cvar/
 │   ├── var_comparison_summary.csv  ← VaR 汇总表
 │   └── backtest_summary.csv        ← 回测汇总表
 ├── main.py                ← VaR 计算 + 可视化主流程
-├── ARCHITECTURE.md        ← 架构说明
 └── README.md
 ```
 
